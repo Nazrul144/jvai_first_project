@@ -15,7 +15,7 @@ const Theraphy = () => {
       {/*Section-2*/}
       <div className='lg:flex gap-28 mt-28 justify-center'>
         <div>
-          <h1 className="text-[#018001] border border-[#018001] rounded-sm text-center font-semibold py-1 w-72">
+          <h1 className="text-[#018001] border border-[#018001] rounded-sm text-center font-semibold py-2 w-72">
             Cognitive Behavioral Therapy (CBT)
           </h1>
           <h1 className=' text-2xl lg:text-4xl font-semibold mb-3'>Anxiety, depression, <span className='text-[#018801] italic font-semibold'>negative</span> thought <br /> patterns.</h1>
@@ -31,7 +31,7 @@ const Theraphy = () => {
             height={550}
           />
         </div>
-        
+
       </div>
 
       {/*Section-3*/}
