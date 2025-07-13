@@ -5,3 +5,13 @@
   font-family: 'Playfair Display', serif;
 }
 
+/* Define the custom color */
+.bg-blue {
+  background-color: #0056F6;
+}
+
+.text-blue {
+  color: #0056F6;
+}
+
+
